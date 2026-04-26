@@ -1,6 +1,4 @@
-![MySQL](https://img.shields.io/badge/MySQL-Database-blue)
-![Level](https://img.shields.io/badge/Level-Beginner_to_Advanced-green)
-![Status](https://img.shields.io/badge/Project-Active-success)
+
 # 🐬 MySQL Mastery – From Zero to Hero
 
 A complete, structured learning path to master MySQL. This repository is built for beginners who want to become job-ready in SQL, and for developers who need a quick reference. Every concept is explained with real, executable SQL code and clear comments.
@@ -81,6 +79,8 @@ MySQL-Mastery/
 - Practice quizzes and exercises
 
 ---
-
+![MySQL](https://img.shields.io/badge/MySQL-Database-blue)
+![Level](https://img.shields.io/badge/Level-Beginner_to_Advanced-green)
+![Status](https://img.shields.io/badge/Project-Active-success)
 
 **Start learning, keep querying! 🎉**
