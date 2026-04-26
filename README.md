@@ -77,8 +77,6 @@ MySQL-Mastery/
 - Real-world project schemas (Library, E-commerce)
 - Practice quizzes and exercises
 
-## 📄 License
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
 
 ---
 
